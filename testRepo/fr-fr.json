@@ -1,0 +1,5 @@
+{
+  " a " : "new_valeur1",
+  "  b " : "new_valeur2",
+  "  c " : [ "new_valeur3", "new_valeur4" ]
+}
