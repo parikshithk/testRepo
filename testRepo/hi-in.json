@@ -1,5 +1,4 @@
 {
-  " a " : "new_मान 1",
-  "  b " : "new_मान 2",
-  "  c " : [ "new_value3", "new_VALUE4" ]
+  "key\t" : "",
+  "test" : ""
 }
