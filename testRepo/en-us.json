@@ -1,3 +1,5 @@
 {
-  "key" : "new_"
+  " a " : "new_value1",
+  "  b " : "new_value2",
+  "  c " : [ "new_value3", "new_value4" ]
 }
